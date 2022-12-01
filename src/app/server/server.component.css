@@ -1,5 +1,7 @@
-section {
+/* app-server säännöt */
+.app-server {
     background-color: blue;
+}
+.app-server * {
     color: bisque;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
